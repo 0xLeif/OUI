@@ -1,12 +1,15 @@
 import XCTest
 @testable import OUI
+import SwiftUI
+import SUIObject
 
 final class OUITests: XCTestCase {
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(OUI().text, "Hello, World!")
+        let boldText = Text("Some")
+                .bold()
+        let normalText = Text("Some")
+        
+        XCTAssertNotEqual(boldText, normalText)
     }
 
     static var allTests = [
