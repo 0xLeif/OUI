@@ -4,4 +4,4 @@
 /*.xcodeproj
 xcuserdata/
 *.resolved
-/.swiftpm/
+/.swiftpm/*
