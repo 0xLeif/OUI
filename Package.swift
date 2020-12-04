@@ -20,7 +20,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/0xLeif/SUIObject", from: "0.4.0"),
+        .package(url: "https://github.com/0xLeif/SUIObject", from: "0.5.1"),
         .package(url: "https://github.com/0xLeif/SURL", from: "0.1.0")
     ],
     targets: [

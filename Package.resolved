@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/0xLeif/Combino",
         "state": {
           "branch": null,
-          "revision": "e43818cea25b307c537fb8f50205cbdaa762a5ce",
-          "version": "0.1.1"
+          "revision": "321e1123d4346203db196ffd4e65f10a03748f00",
+          "version": "0.2.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/0xLeif/SUIObject",
         "state": {
           "branch": null,
-          "revision": "8ac67f16b81180ce13bb5856cc701ba240c41c96",
-          "version": "0.4.0"
+          "revision": "5f79adf84f1d974d053cb69eccd49821e70f9851",
+          "version": "0.5.1"
         }
       },
       {
