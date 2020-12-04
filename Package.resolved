@@ -18,6 +18,15 @@
           "revision": "8ac67f16b81180ce13bb5856cc701ba240c41c96",
           "version": "0.4.0"
         }
+      },
+      {
+        "package": "SURL",
+        "repositoryURL": "https://github.com/0xLeif/SURL",
+        "state": {
+          "branch": null,
+          "revision": "2ad0e8a6b097334e9317b7e6ec94c701d946861f",
+          "version": "0.1.0"
+        }
       }
     ]
   },
